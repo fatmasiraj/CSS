@@ -1,0 +1,19 @@
+* {
+    background-color: #f0f5eb;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a {
+    font-size: 20px;
+    margin: 10px;
+    color: rgb(152, 143, 123);
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 500px;
+    margin: 20px;
+}

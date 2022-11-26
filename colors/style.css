@@ -1,0 +1,23 @@
+.header1 {
+    /* hex */
+    color: #E08DAC;
+}
+
+.header2 {
+    /* keyword */
+    color: grey;
+}
+
+.header3 {
+    /* hsl */
+    color: hsl(330, 19%, 75%);
+}
+
+.header4 {
+    /* rgb */
+    color: rgb(219, 199, 190);
+}
+
+.divider {
+    background-color: #f8fdf3;
+}
